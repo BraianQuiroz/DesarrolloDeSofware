@@ -1,0 +1,29 @@
+//Braian Leonel Quiroz
+//Tecnicas avanzadas a la programacion
+1- Doble toma 1 núm t calcula el doble.
+a. fuction doble (un_numero){
+  var res = un.numero * 2;
+  returs res;
+}
+b. var doble = fuction (un_numero){
+  return un_numero * 2;
+}
+
+2-
+///function es_par(un_numero){
+///return un_numero % 2 == 0
+}
+var es_par = fuction (un_numero){
+  return un_numero % 2 == 0
+}
+3- 
+
+function aplicar(una_funcion){
+  una_fuction();
+  //Implementar
+}
+
+4- 
+fuction calculadora(una_op, un_nume, otro_num){
+  return una_op(un_num, otro_num);
+}
